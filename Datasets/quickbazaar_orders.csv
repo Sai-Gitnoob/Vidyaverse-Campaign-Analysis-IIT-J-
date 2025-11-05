@@ -1,0 +1,1001 @@
+CustomerID,OrderTimestamp,AOV,CustomerRating,Feedback
+CUST_0103,2025-02-26 21:58:00,287.42,2,Very bad experience.
+CUST_0436,2025-02-27 16:12:00,417.02,5,Very fast delivery.
+CUST_0349,2025-07-11 01:40:00,266.23,3,Excellent service!
+CUST_0271,2025-05-10 00:20:00,411.72,5,Loved the discounts.
+CUST_0107,2025-03-27 05:27:00,386.29,5,User friendly app.
+CUST_0072,2025-05-06 04:37:00,381.12,5,User friendly app.
+CUST_0189,2025-02-03 20:22:00,382.18,1,Poor packaging.
+CUST_0021,2025-03-25 04:09:00,488.37,3,Very fast delivery.
+CUST_0103,2025-04-24 16:20:00,207.12,4,Neutral experience.
+CUST_0122,2025-04-19 08:45:00,292.03,5,Product quality acceptable.
+CUST_0467,2025-02-01 18:44:00,395.13,1,Delivery was very late.
+CUST_0215,2025-02-04 00:48:00,258.56,4,Nothing special.
+CUST_0331,2025-03-04 01:27:00,405.53,5,Delivery was okay.
+CUST_0459,2025-05-06 07:38:00,393.9,5,Excellent service!
+CUST_0088,2025-07-04 01:53:00,231.55,5,Excellent service!
+CUST_0373,2025-05-29 02:58:00,225.62,4,Very fast delivery.
+CUST_0100,2025-03-22 11:00:00,85.15,2,Average service.
+CUST_0360,2025-03-26 11:04:00,253.52,5,User friendly app.
+CUST_0152,2025-03-29 16:47:00,401.72,4,Product quality acceptable.
+CUST_0131,2025-03-19 22:14:00,418.74,1,App glitches caused trouble.
+CUST_0150,2025-04-26 13:01:00,424.23,4,Excellent service!
+CUST_0309,2025-04-16 18:38:00,306.65,2,App glitches caused trouble.
+CUST_0258,2025-07-16 01:37:00,397.8,4,User friendly app.
+CUST_0344,2025-03-22 01:17:00,447.67,4,Neutral experience.
+CUST_0492,2025-03-02 14:26:00,247.84,4,Product quality acceptable.
+CUST_0414,2025-07-29 01:51:00,414.8,3,Delivery was okay.
+CUST_0294,2025-07-16 00:23:00,478.78,5,User friendly app.
+CUST_0386,2025-04-20 22:41:00,341.11,2,Customer support unhelpful.
+CUST_0192,2025-03-23 16:04:00,527.47,5,Nothing special.
+CUST_0444,2025-03-01 03:09:00,343.91,3,Loved the discounts.
+CUST_0277,2025-06-25 09:16:00,296.79,4,Excellent service!
+CUST_0161,2025-04-25 23:04:00,466.82,5,Good quality products.
+CUST_0460,2025-03-06 05:52:00,644.0,5,Great experience overall.
+CUST_0314,2025-06-06 10:42:00,410.24,4,Delivery was okay.
+CUST_0022,2025-05-26 14:56:00,476.19,4,Great experience overall.
+CUST_0253,2025-07-01 22:15:00,338.95,3,Wrong items delivered.
+CUST_0236,2025-05-06 10:53:00,251.01,4,Good quality products.
+CUST_0345,2025-06-24 07:03:00,419.95,4,User friendly app.
+CUST_0049,2025-05-15 03:55:00,438.93,5,Great experience overall.
+CUST_0475,2025-02-25 02:31:00,357.05,4,Very fast delivery.
+CUST_0059,2025-07-05 17:57:00,475.73,4,Very fast delivery.
+CUST_0170,2025-03-23 18:20:00,321.51,2,Customer support unhelpful.
+CUST_0476,2025-02-05 17:27:00,291.75,5,Very fast delivery.
+CUST_0188,2025-07-20 21:20:00,527.28,1,Wrong items delivered.
+CUST_0464,2025-04-11 00:04:00,527.84,3,Great experience overall.
+CUST_0271,2025-02-12 13:33:00,323.88,4,Nothing special.
+CUST_0190,2025-07-27 13:25:00,606.26,5,Good quality products.
+CUST_0446,2025-03-17 08:25:00,365.55,3,Excellent service!
+CUST_0175,2025-03-19 21:46:00,410.17,3,Very bad experience.
+CUST_0446,2025-03-28 10:47:00,389.84,4,Average service.
+CUST_0051,2025-04-02 16:25:00,462.85,5,Product quality acceptable.
+CUST_0364,2025-03-08 00:07:00,432.57,5,Very fast delivery.
+CUST_0055,2025-05-24 02:51:00,430.96,4,Delivery was okay.
+CUST_0244,2025-03-19 23:21:00,277.65,3,Very fast delivery.
+CUST_0320,2025-02-14 22:13:00,197.37,1,App glitches caused trouble.
+CUST_0131,2025-06-10 12:25:00,537.06,4,Loved the discounts.
+CUST_0485,2025-02-14 23:50:00,334.55,5,Neutral experience.
+CUST_0307,2025-02-07 02:46:00,394.12,4,Nothing special.
+CUST_0135,2025-07-01 13:42:00,439.22,4,Great experience overall.
+CUST_0021,2025-02-18 05:34:00,595.48,4,Nothing special.
+CUST_0329,2025-05-26 14:24:00,419.36,5,User friendly app.
+CUST_0167,2025-05-30 04:27:00,352.62,3,Very fast delivery.
+CUST_0274,2025-03-11 16:38:00,337.17,3,Excellent service!
+CUST_0388,2025-04-27 11:24:00,395.52,3,Neutral experience.
+CUST_0089,2025-06-25 12:19:00,290.88,5,User friendly app.
+CUST_0316,2025-02-25 03:09:00,403.47,5,Loved the discounts.
+CUST_0014,2025-04-08 08:44:00,393.76,4,Very fast delivery.
+CUST_0242,2025-06-26 14:35:00,596.98,3,User friendly app.
+CUST_0265,2025-05-22 21:33:00,389.97,1,Delivery was very late.
+CUST_0346,2025-05-22 07:39:00,169.06,2,Nothing special.
+CUST_0053,2025-05-24 11:18:00,720.82,5,Good quality products.
+CUST_0386,2025-03-14 08:36:00,514.82,5,Average service.
+CUST_0340,2025-02-06 19:25:00,649.88,2,Very bad experience.
+CUST_0092,2025-04-05 01:58:00,261.12,5,Great experience overall.
+CUST_0367,2025-03-31 12:05:00,373.38,4,Good quality products.
+CUST_0444,2025-06-01 00:52:00,480.93,5,Great experience overall.
+CUST_0455,2025-06-30 20:05:00,464.37,3,Wrong items delivered.
+CUST_0428,2025-04-11 22:47:00,436.83,1,Poor packaging.
+CUST_0264,2025-02-04 10:29:00,136.05,3,Product quality acceptable.
+CUST_0431,2025-05-06 23:54:00,194.51,2,Delivery was okay.
+CUST_0035,2025-06-17 22:02:00,582.1,1,App glitches caused trouble.
+CUST_0206,2025-03-03 07:36:00,603.44,4,Great experience overall.
+CUST_0081,2025-03-08 23:30:00,387.2,4,Good quality products.
+CUST_0420,2025-02-06 01:19:00,566.85,5,Product quality acceptable.
+CUST_0050,2025-04-16 03:14:00,277.21,5,User friendly app.
+CUST_0360,2025-06-14 21:48:00,304.67,2,Poor packaging.
+CUST_0388,2025-05-05 23:37:00,267.73,5,Average service.
+CUST_0002,2025-07-29 01:14:00,298.01,5,Delivery was okay.
+CUST_0390,2025-06-16 18:44:00,486.72,1,Wrong items delivered.
+CUST_0054,2025-03-16 04:05:00,296.52,4,Neutral experience.
+CUST_0106,2025-07-04 21:03:00,668.77,1,Very bad experience.
+CUST_0260,2025-02-19 19:32:00,455.21,2,App glitches caused trouble.
+CUST_0310,2025-02-20 16:11:00,530.14,5,User friendly app.
+CUST_0477,2025-03-19 00:25:00,458.79,3,Neutral experience.
+CUST_0191,2025-06-22 05:36:00,545.71,5,Great experience overall.
+CUST_0402,2025-06-06 10:35:00,295.84,5,Excellent service!
+CUST_0218,2025-04-18 10:02:00,573.63,4,User friendly app.
+CUST_0044,2025-07-11 05:49:00,416.91,4,Excellent service!
+CUST_0162,2025-02-10 04:22:00,545.11,4,Great experience overall.
+CUST_0202,2025-06-18 11:01:00,227.25,3,Delivery was okay.
+CUST_0446,2025-02-13 07:01:00,421.67,4,Loved the discounts.
+CUST_0484,2025-04-25 00:36:00,417.43,3,Very fast delivery.
+CUST_0270,2025-04-14 16:08:00,325.69,4,User friendly app.
+CUST_0351,2025-06-23 23:37:00,437.57,3,Nothing special.
+CUST_0304,2025-07-13 16:04:00,584.75,5,Great experience overall.
+CUST_0271,2025-04-03 11:49:00,316.46,4,User friendly app.
+CUST_0456,2025-04-19 20:55:00,515.42,2,Very bad experience.
+CUST_0462,2025-06-17 01:11:00,264.71,4,Average service.
+CUST_0215,2025-03-07 00:39:00,653.13,5,User friendly app.
+CUST_0252,2025-04-05 21:59:00,494.15,3,Very bad experience.
+CUST_0190,2025-04-05 07:10:00,607.01,4,User friendly app.
+CUST_0296,2025-05-16 04:13:00,480.65,4,Good quality products.
+CUST_0213,2025-04-01 02:20:00,446.87,5,Loved the discounts.
+CUST_0208,2025-07-15 04:18:00,495.15,3,Good quality products.
+CUST_0237,2025-06-03 13:25:00,383.63,3,User friendly app.
+CUST_0338,2025-04-03 03:24:00,205.86,4,Product quality acceptable.
+CUST_0367,2025-03-14 17:39:00,453.69,3,Product quality acceptable.
+CUST_0053,2025-04-13 06:39:00,309.34,4,Loved the discounts.
+CUST_0280,2025-02-14 18:37:00,267.8,1,Very bad experience.
+CUST_0410,2025-05-08 22:14:00,476.36,3,App glitches caused trouble.
+CUST_0217,2025-07-03 16:32:00,366.51,5,Delivery was okay.
+CUST_0252,2025-03-25 07:39:00,523.32,5,Nothing special.
+CUST_0188,2025-07-29 06:50:00,305.33,5,Delivery was okay.
+CUST_0380,2025-06-14 02:06:00,343.5,5,Great experience overall.
+CUST_0493,2025-07-29 07:41:00,538.04,4,User friendly app.
+CUST_0041,2025-02-15 14:28:00,433.58,5,Good quality products.
+CUST_0157,2025-03-05 19:29:00,222.72,2,App glitches caused trouble.
+CUST_0015,2025-07-05 03:28:00,430.93,5,Average service.
+CUST_0301,2025-03-10 00:36:00,577.75,4,Very fast delivery.
+CUST_0065,2025-07-05 22:32:00,342.57,1,Delivery was very late.
+CUST_0345,2025-04-27 01:09:00,471.77,4,Very fast delivery.
+CUST_0327,2025-02-05 09:32:00,298.07,5,Good quality products.
+CUST_0009,2025-05-29 05:12:00,383.59,3,Neutral experience.
+CUST_0344,2025-07-09 14:35:00,530.78,5,Good quality products.
+CUST_0129,2025-05-20 23:51:00,426.31,4,Neutral experience.
+CUST_0492,2025-02-15 07:04:00,554.71,3,Delivery was okay.
+CUST_0136,2025-07-07 14:03:00,451.04,3,Nothing special.
+CUST_0472,2025-04-17 12:01:00,666.25,4,Excellent service!
+CUST_0063,2025-07-05 18:50:00,212.21,2,Customer support unhelpful.
+CUST_0139,2025-07-14 03:25:00,373.94,4,Delivery was okay.
+CUST_0499,2025-03-15 04:19:00,269.86,5,Nothing special.
+CUST_0081,2025-02-11 09:39:00,278.05,4,Average service.
+CUST_0392,2025-03-10 05:07:00,279.14,3,Product quality acceptable.
+CUST_0163,2025-02-23 14:25:00,420.13,5,Loved the discounts.
+CUST_0419,2025-03-18 10:11:00,427.16,5,Product quality acceptable.
+CUST_0289,2025-06-21 07:17:00,451.29,5,Excellent service!
+CUST_0379,2025-05-22 07:59:00,265.23,3,Neutral experience.
+CUST_0261,2025-07-21 11:43:00,361.09,5,Very fast delivery.
+CUST_0490,2025-05-11 15:03:00,284.28,5,Neutral experience.
+CUST_0231,2025-06-13 23:36:00,512.31,3,Product quality acceptable.
+CUST_0041,2025-04-13 09:48:00,295.57,3,Loved the discounts.
+CUST_0028,2025-05-03 08:53:00,374.35,4,Neutral experience.
+CUST_0135,2025-03-23 13:39:00,467.24,3,Great experience overall.
+CUST_0201,2025-03-13 21:10:00,326.12,3,Delivery was very late.
+CUST_0328,2025-07-01 00:45:00,483.27,4,Loved the discounts.
+CUST_0268,2025-05-12 20:25:00,591.53,3,Customer support unhelpful.
+CUST_0418,2025-05-21 03:53:00,422.77,4,Good quality products.
+CUST_0033,2025-03-29 00:53:00,508.19,3,Average service.
+CUST_0048,2025-03-27 18:39:00,151.19,1,Delivery was very late.
+CUST_0407,2025-06-23 20:46:00,348.51,2,Very bad experience.
+CUST_0062,2025-03-25 08:09:00,422.19,5,Loved the discounts.
+CUST_0216,2025-07-30 20:25:00,273.64,2,App glitches caused trouble.
+CUST_0293,2025-07-19 02:51:00,424.92,4,Good quality products.
+CUST_0099,2025-02-25 10:37:00,527.19,4,Product quality acceptable.
+CUST_0172,2025-06-10 06:17:00,174.45,2,Delivery was okay.
+CUST_0360,2025-07-12 16:42:00,257.31,5,Neutral experience.
+CUST_0214,2025-05-19 18:53:00,422.18,1,Wrong items delivered.
+CUST_0475,2025-07-02 06:51:00,455.25,4,Neutral experience.
+CUST_0035,2025-04-29 00:48:00,488.57,5,Product quality acceptable.
+CUST_0449,2025-03-01 10:21:00,413.31,5,Nothing special.
+CUST_0227,2025-07-04 17:20:00,455.38,4,User friendly app.
+CUST_0101,2025-03-21 06:16:00,508.42,4,Good quality products.
+CUST_0431,2025-04-25 08:48:00,350.27,5,Great experience overall.
+CUST_0462,2025-06-28 21:21:00,326.97,2,Poor packaging.
+CUST_0131,2025-04-04 07:48:00,379.78,4,Product quality acceptable.
+CUST_0257,2025-04-12 00:31:00,423.94,5,Product quality acceptable.
+CUST_0005,2025-06-21 22:50:00,321.01,3,Delivery was very late.
+CUST_0218,2025-06-03 23:18:00,352.75,4,Nothing special.
+CUST_0255,2025-04-03 16:44:00,447.72,4,Great experience overall.
+CUST_0398,2025-03-02 15:39:00,418.93,4,Average service.
+CUST_0359,2025-02-19 17:00:00,377.76,5,Excellent service!
+CUST_0283,2025-04-19 18:46:00,191.07,1,Delivery was very late.
+CUST_0393,2025-05-24 17:29:00,399.58,5,Great experience overall.
+CUST_0207,2025-07-16 18:03:00,283.6,2,Wrong items delivered.
+CUST_0015,2025-06-09 07:28:00,517.97,4,User friendly app.
+CUST_0346,2025-03-27 06:02:00,362.95,5,Excellent service!
+CUST_0042,2025-03-04 09:09:00,280.45,5,User friendly app.
+CUST_0380,2025-05-21 01:59:00,392.61,3,Nothing special.
+CUST_0461,2025-04-28 22:27:00,552.48,1,Delivery was very late.
+CUST_0179,2025-03-04 17:06:00,475.7,4,Very fast delivery.
+CUST_0063,2025-05-04 07:00:00,426.39,5,Average service.
+CUST_0352,2025-03-29 22:02:00,240.87,3,Delivery was very late.
+CUST_0231,2025-04-13 21:56:00,594.59,2,App glitches caused trouble.
+CUST_0241,2025-04-08 18:32:00,325.4,2,Poor packaging.
+CUST_0052,2025-05-03 14:07:00,512.05,4,Good quality products.
+CUST_0096,2025-07-12 02:31:00,360.96,4,Neutral experience.
+CUST_0388,2025-04-29 13:31:00,500.5,4,Average service.
+CUST_0222,2025-05-31 13:42:00,556.82,4,Product quality acceptable.
+CUST_0485,2025-06-24 03:51:00,477.78,4,Good quality products.
+CUST_0407,2025-07-15 21:20:00,490.7,2,Wrong items delivered.
+CUST_0231,2025-06-22 22:47:00,388.19,1,App glitches caused trouble.
+CUST_0237,2025-02-07 09:06:00,347.92,5,Nothing special.
+CUST_0143,2025-07-11 22:20:00,416.6,1,Customer support unhelpful.
+CUST_0171,2025-06-27 15:18:00,359.21,4,User friendly app.
+CUST_0029,2025-03-08 17:01:00,696.06,5,Loved the discounts.
+CUST_0036,2025-06-09 14:04:00,280.92,5,User friendly app.
+CUST_0013,2025-06-28 10:41:00,520.25,3,Loved the discounts.
+CUST_0160,2025-06-10 02:22:00,462.06,4,Delivery was okay.
+CUST_0327,2025-05-30 11:19:00,427.58,5,Neutral experience.
+CUST_0187,2025-02-05 04:37:00,577.59,4,Neutral experience.
+CUST_0243,2025-06-17 01:52:00,435.81,4,Great experience overall.
+CUST_0086,2025-07-22 02:51:00,323.81,5,Average service.
+CUST_0284,2025-04-27 11:23:00,435.01,3,Product quality acceptable.
+CUST_0066,2025-04-22 09:29:00,378.02,4,Average service.
+CUST_0170,2025-05-31 13:22:00,460.39,4,Very fast delivery.
+CUST_0045,2025-06-08 16:49:00,497.57,4,User friendly app.
+CUST_0062,2025-05-26 16:13:00,296.91,4,User friendly app.
+CUST_0441,2025-02-09 07:01:00,543.44,3,Very fast delivery.
+CUST_0134,2025-02-25 06:08:00,369.41,4,Great experience overall.
+CUST_0284,2025-02-22 10:45:00,453.23,3,Excellent service!
+CUST_0028,2025-02-04 12:33:00,474.04,5,Nothing special.
+CUST_0108,2025-03-09 10:05:00,444.09,4,Product quality acceptable.
+CUST_0044,2025-06-26 20:41:00,386.91,2,Poor packaging.
+CUST_0340,2025-05-11 08:37:00,341.37,5,Nothing special.
+CUST_0286,2025-03-06 16:36:00,367.72,5,User friendly app.
+CUST_0446,2025-07-03 05:57:00,587.82,3,Excellent service!
+CUST_0331,2025-04-17 22:52:00,296.1,3,Delivery was very late.
+CUST_0128,2025-05-17 21:20:00,313.69,1,Very bad experience.
+CUST_0348,2025-02-27 05:26:00,308.42,3,Neutral experience.
+CUST_0473,2025-07-18 01:11:00,416.29,5,Excellent service!
+CUST_0231,2025-03-25 06:09:00,217.04,4,User friendly app.
+CUST_0190,2025-07-23 16:25:00,237.57,4,Very fast delivery.
+CUST_0225,2025-06-02 13:01:00,368.69,4,Excellent service!
+CUST_0385,2025-03-26 10:00:00,245.47,4,Great experience overall.
+CUST_0377,2025-03-23 20:35:00,255.25,1,Delivery was very late.
+CUST_0283,2025-05-26 20:10:00,246.37,3,App glitches caused trouble.
+CUST_0446,2025-03-12 10:35:00,298.41,4,User friendly app.
+CUST_0121,2025-05-24 06:39:00,487.75,5,Loved the discounts.
+CUST_0116,2025-03-26 01:54:00,514.68,4,Neutral experience.
+CUST_0461,2025-05-22 23:53:00,630.28,5,User friendly app.
+CUST_0233,2025-06-30 04:55:00,625.88,5,Very fast delivery.
+CUST_0259,2025-03-05 03:46:00,494.36,5,Product quality acceptable.
+CUST_0359,2025-06-28 18:34:00,523.32,1,Poor packaging.
+CUST_0198,2025-04-22 12:42:00,415.73,4,Nothing special.
+CUST_0456,2025-07-04 01:52:00,462.38,4,Nothing special.
+CUST_0411,2025-04-14 08:39:00,633.23,5,User friendly app.
+CUST_0137,2025-02-17 00:24:00,444.55,5,User friendly app.
+CUST_0318,2025-04-02 10:39:00,538.39,4,Average service.
+CUST_0165,2025-03-14 06:34:00,287.88,3,Delivery was okay.
+CUST_0225,2025-06-11 17:36:00,320.05,4,User friendly app.
+CUST_0307,2025-05-19 11:50:00,437.45,5,Very fast delivery.
+CUST_0234,2025-05-13 01:11:00,417.99,4,Very fast delivery.
+CUST_0172,2025-02-19 04:43:00,325.61,5,Neutral experience.
+CUST_0152,2025-03-21 16:09:00,688.89,5,User friendly app.
+CUST_0463,2025-03-29 22:48:00,420.71,1,Wrong items delivered.
+CUST_0315,2025-03-19 11:15:00,346.87,4,Delivery was okay.
+CUST_0374,2025-04-24 07:30:00,418.19,4,Delivery was okay.
+CUST_0160,2025-06-29 16:22:00,403.05,4,Average service.
+CUST_0096,2025-05-29 15:05:00,422.54,3,Excellent service!
+CUST_0472,2025-02-25 17:24:00,208.75,3,Neutral experience.
+CUST_0233,2025-02-12 14:58:00,555.03,5,Neutral experience.
+CUST_0180,2025-07-04 08:44:00,561.86,4,Neutral experience.
+CUST_0113,2025-02-26 14:31:00,576.44,4,Very fast delivery.
+CUST_0318,2025-02-10 15:06:00,439.05,5,Excellent service!
+CUST_0497,2025-06-25 22:25:00,479.5,2,Customer support unhelpful.
+CUST_0442,2025-04-27 06:13:00,296.05,3,Great experience overall.
+CUST_0052,2025-04-20 20:06:00,499.95,2,Delivery was very late.
+CUST_0268,2025-06-17 18:47:00,430.21,2,Poor packaging.
+CUST_0295,2025-04-13 17:58:00,344.75,5,User friendly app.
+CUST_0386,2025-04-23 19:38:00,503.77,2,Poor packaging.
+CUST_0387,2025-06-26 09:38:00,508.41,5,Product quality acceptable.
+CUST_0113,2025-02-17 13:30:00,407.27,4,Average service.
+CUST_0101,2025-07-02 02:43:00,452.61,5,Good quality products.
+CUST_0113,2025-03-17 01:02:00,276.19,3,Delivery was okay.
+CUST_0440,2025-03-09 10:39:00,549.18,3,Good quality products.
+CUST_0081,2025-05-19 06:14:00,292.14,4,Loved the discounts.
+CUST_0187,2025-05-31 16:03:00,315.35,3,Average service.
+CUST_0113,2025-05-04 21:24:00,407.48,1,Poor packaging.
+CUST_0002,2025-06-21 17:32:00,533.74,5,Very fast delivery.
+CUST_0130,2025-02-16 12:41:00,533.67,5,Average service.
+CUST_0220,2025-05-19 01:54:00,399.42,4,Product quality acceptable.
+CUST_0054,2025-07-20 01:29:00,492.76,4,Very fast delivery.
+CUST_0343,2025-02-13 12:17:00,197.31,2,Delivery was okay.
+CUST_0485,2025-07-10 02:58:00,313.68,4,Neutral experience.
+CUST_0224,2025-03-11 13:51:00,316.13,3,Product quality acceptable.
+CUST_0225,2025-03-01 16:28:00,550.27,5,Excellent service!
+CUST_0385,2025-04-03 20:43:00,478.56,1,Delivery was very late.
+CUST_0403,2025-02-16 23:43:00,422.16,4,User friendly app.
+CUST_0126,2025-06-01 09:29:00,433.81,3,Good quality products.
+CUST_0130,2025-07-03 06:19:00,588.2,5,Delivery was okay.
+CUST_0053,2025-06-13 00:29:00,379.58,5,Average service.
+CUST_0172,2025-07-27 02:44:00,242.31,5,Average service.
+CUST_0218,2025-06-22 23:29:00,530.46,5,User friendly app.
+CUST_0160,2025-04-09 17:36:00,421.82,4,Delivery was okay.
+CUST_0198,2025-07-03 15:00:00,514.44,4,Excellent service!
+CUST_0416,2025-04-14 14:48:00,394.63,5,Good quality products.
+CUST_0247,2025-06-01 23:03:00,299.36,4,Delivery was okay.
+CUST_0324,2025-06-20 04:36:00,448.34,4,Excellent service!
+CUST_0439,2025-07-21 05:38:00,401.22,3,Delivery was okay.
+CUST_0203,2025-04-04 13:23:00,422.19,3,Loved the discounts.
+CUST_0184,2025-02-11 12:33:00,593.99,4,Average service.
+CUST_0123,2025-07-03 06:51:00,268.16,4,Loved the discounts.
+CUST_0401,2025-02-04 07:19:00,434.31,5,Delivery was okay.
+CUST_0255,2025-05-04 21:52:00,301.72,1,Very bad experience.
+CUST_0294,2025-05-21 09:42:00,89.13,3,Neutral experience.
+CUST_0280,2025-03-29 08:48:00,394.12,3,Neutral experience.
+CUST_0325,2025-02-03 23:05:00,403.72,3,Average service.
+CUST_0372,2025-02-05 04:53:00,474.82,4,Good quality products.
+CUST_0098,2025-03-19 22:48:00,373.9,1,Poor packaging.
+CUST_0198,2025-02-09 02:19:00,221.32,4,Loved the discounts.
+CUST_0470,2025-06-02 16:58:00,301.31,4,User friendly app.
+CUST_0395,2025-07-13 17:17:00,558.04,4,Excellent service!
+CUST_0240,2025-04-03 16:23:00,299.6,3,Nothing special.
+CUST_0144,2025-02-03 02:37:00,589.99,3,Product quality acceptable.
+CUST_0097,2025-02-13 23:46:00,526.0,3,Excellent service!
+CUST_0201,2025-04-30 08:03:00,361.87,3,Great experience overall.
+CUST_0124,2025-06-22 04:33:00,312.51,5,Excellent service!
+CUST_0187,2025-02-11 08:55:00,525.75,4,Excellent service!
+CUST_0326,2025-04-08 08:02:00,371.09,4,Nothing special.
+CUST_0464,2025-07-03 01:11:00,214.52,4,Average service.
+CUST_0349,2025-07-20 08:14:00,467.48,5,Product quality acceptable.
+CUST_0259,2025-03-12 04:10:00,450.07,5,Product quality acceptable.
+CUST_0148,2025-06-04 14:37:00,536.52,5,Good quality products.
+CUST_0252,2025-04-13 04:47:00,441.95,5,Excellent service!
+CUST_0443,2025-05-01 17:05:00,334.1,4,Product quality acceptable.
+CUST_0420,2025-03-09 15:12:00,552.36,5,Very fast delivery.
+CUST_0403,2025-02-28 04:12:00,564.04,4,Good quality products.
+CUST_0346,2025-04-22 17:39:00,427.98,4,Very fast delivery.
+CUST_0451,2025-03-17 18:57:00,407.24,1,App glitches caused trouble.
+CUST_0147,2025-04-08 23:39:00,241.21,4,Very fast delivery.
+CUST_0148,2025-05-09 07:26:00,327.1,5,Neutral experience.
+CUST_0352,2025-03-05 05:23:00,491.29,4,User friendly app.
+CUST_0199,2025-06-27 15:39:00,333.13,5,Delivery was okay.
+CUST_0308,2025-05-03 00:58:00,225.18,4,Very fast delivery.
+CUST_0489,2025-03-31 15:40:00,819.51,5,Loved the discounts.
+CUST_0417,2025-02-13 10:44:00,224.39,3,User friendly app.
+CUST_0424,2025-04-30 20:41:00,670.81,1,App glitches caused trouble.
+CUST_0128,2025-05-11 05:59:00,363.11,5,Nothing special.
+CUST_0039,2025-02-07 04:42:00,389.85,4,Excellent service!
+CUST_0338,2025-03-17 18:30:00,319.33,1,App glitches caused trouble.
+CUST_0360,2025-02-23 09:09:00,493.94,5,Very fast delivery.
+CUST_0129,2025-07-10 10:52:00,227.23,4,Delivery was okay.
+CUST_0267,2025-07-08 06:30:00,179.16,3,Neutral experience.
+CUST_0476,2025-04-23 03:01:00,593.22,4,Nothing special.
+CUST_0441,2025-04-18 11:38:00,303.52,4,Product quality acceptable.
+CUST_0473,2025-02-13 13:26:00,489.53,4,Great experience overall.
+CUST_0434,2025-05-24 08:16:00,269.75,3,Loved the discounts.
+CUST_0151,2025-05-15 01:59:00,485.01,3,User friendly app.
+CUST_0415,2025-04-29 12:34:00,602.03,5,Great experience overall.
+CUST_0478,2025-04-11 18:29:00,336.75,3,Very bad experience.
+CUST_0298,2025-04-15 08:31:00,167.99,3,Product quality acceptable.
+CUST_0099,2025-04-04 14:29:00,602.66,4,Very fast delivery.
+CUST_0263,2025-03-09 21:03:00,511.15,2,Wrong items delivered.
+CUST_0252,2025-06-28 03:49:00,343.17,3,Delivery was okay.
+CUST_0144,2025-04-09 16:11:00,373.85,3,Good quality products.
+CUST_0346,2025-06-30 16:09:00,266.72,5,Neutral experience.
+CUST_0112,2025-05-29 00:21:00,570.43,4,Neutral experience.
+CUST_0060,2025-05-31 17:49:00,335.83,3,Loved the discounts.
+CUST_0369,2025-02-14 14:28:00,229.75,3,Average service.
+CUST_0002,2025-07-14 02:51:00,425.64,5,Great experience overall.
+CUST_0385,2025-06-05 11:06:00,296.8,3,Very fast delivery.
+CUST_0304,2025-03-01 10:32:00,276.4,4,Excellent service!
+CUST_0254,2025-06-14 14:14:00,348.39,4,Average service.
+CUST_0140,2025-07-10 18:10:00,410.36,1,App glitches caused trouble.
+CUST_0453,2025-03-30 22:25:00,234.27,1,App glitches caused trouble.
+CUST_0037,2025-07-24 01:28:00,566.22,4,Very fast delivery.
+CUST_0160,2025-02-04 16:34:00,481.26,5,Very fast delivery.
+CUST_0009,2025-06-21 08:38:00,356.16,4,Product quality acceptable.
+CUST_0233,2025-02-15 22:28:00,291.6,2,Poor packaging.
+CUST_0099,2025-07-07 10:51:00,389.29,5,Product quality acceptable.
+CUST_0147,2025-03-04 01:46:00,507.93,5,Loved the discounts.
+CUST_0304,2025-04-25 21:10:00,489.35,2,Poor packaging.
+CUST_0208,2025-02-27 02:16:00,527.02,4,Great experience overall.
+CUST_0131,2025-06-06 11:55:00,342.35,5,Very fast delivery.
+CUST_0404,2025-05-03 20:46:00,50.0,2,Poor packaging.
+CUST_0152,2025-05-12 19:05:00,549.74,2,Wrong items delivered.
+CUST_0054,2025-06-27 04:02:00,379.94,5,Loved the discounts.
+CUST_0120,2025-02-01 05:14:00,479.94,3,Good quality products.
+CUST_0161,2025-07-12 02:48:00,600.31,5,User friendly app.
+CUST_0408,2025-02-25 23:11:00,692.13,4,Loved the discounts.
+CUST_0116,2025-02-18 14:43:00,322.02,3,Loved the discounts.
+CUST_0075,2025-02-27 07:59:00,416.08,3,Nothing special.
+CUST_0113,2025-07-24 16:28:00,564.02,5,Neutral experience.
+CUST_0456,2025-03-25 07:14:00,298.69,4,Product quality acceptable.
+CUST_0420,2025-02-27 13:49:00,330.15,4,Excellent service!
+CUST_0422,2025-06-11 11:52:00,329.44,4,Neutral experience.
+CUST_0104,2025-02-24 02:19:00,396.63,4,Product quality acceptable.
+CUST_0340,2025-03-18 14:24:00,373.59,3,Loved the discounts.
+CUST_0254,2025-02-17 11:19:00,328.74,5,Neutral experience.
+CUST_0227,2025-02-09 05:47:00,284.11,5,Very fast delivery.
+CUST_0112,2025-04-04 21:53:00,497.43,2,Poor packaging.
+CUST_0473,2025-05-28 01:23:00,560.54,5,Loved the discounts.
+CUST_0099,2025-04-13 10:12:00,577.93,4,Very fast delivery.
+CUST_0153,2025-04-13 20:17:00,342.27,1,Delivery was very late.
+CUST_0349,2025-04-05 17:45:00,502.45,4,Product quality acceptable.
+CUST_0402,2025-05-06 05:31:00,428.36,3,Good quality products.
+CUST_0384,2025-02-11 12:24:00,331.52,5,Loved the discounts.
+CUST_0366,2025-03-05 05:40:00,488.11,3,Loved the discounts.
+CUST_0338,2025-06-16 10:21:00,326.01,3,Nothing special.
+CUST_0194,2025-07-29 23:40:00,354.86,5,User friendly app.
+CUST_0310,2025-06-25 11:56:00,234.79,5,Great experience overall.
+CUST_0163,2025-03-18 14:15:00,344.29,5,User friendly app.
+CUST_0208,2025-03-26 21:27:00,430.46,1,Very bad experience.
+CUST_0445,2025-06-28 00:09:00,588.27,3,Neutral experience.
+CUST_0169,2025-07-18 17:59:00,357.58,4,Loved the discounts.
+CUST_0484,2025-05-08 01:32:00,275.42,3,Product quality acceptable.
+CUST_0161,2025-03-05 08:12:00,579.68,3,Average service.
+CUST_0068,2025-07-08 00:12:00,339.45,4,Loved the discounts.
+CUST_0289,2025-05-27 21:38:00,190.19,3,Delivery was very late.
+CUST_0398,2025-07-16 06:25:00,415.97,4,Very fast delivery.
+CUST_0277,2025-07-24 17:14:00,361.03,5,Neutral experience.
+CUST_0304,2025-05-17 22:43:00,676.05,2,Customer support unhelpful.
+CUST_0404,2025-03-21 07:10:00,457.04,4,Loved the discounts.
+CUST_0384,2025-04-02 02:58:00,382.44,5,Excellent service!
+CUST_0392,2025-06-14 08:05:00,289.06,4,Excellent service!
+CUST_0135,2025-04-14 06:30:00,439.62,3,Great experience overall.
+CUST_0195,2025-07-10 08:49:00,574.81,5,Good quality products.
+CUST_0401,2025-02-08 07:49:00,437.42,3,Neutral experience.
+CUST_0128,2025-05-03 19:46:00,298.31,3,Wrong items delivered.
+CUST_0033,2025-06-07 06:10:00,464.66,3,Good quality products.
+CUST_0176,2025-04-25 15:03:00,394.17,4,Average service.
+CUST_0460,2025-06-14 21:25:00,453.83,2,App glitches caused trouble.
+CUST_0443,2025-06-07 02:40:00,357.42,3,Delivery was okay.
+CUST_0371,2025-05-17 13:10:00,354.6,3,Product quality acceptable.
+CUST_0470,2025-02-12 22:11:00,349.87,2,Delivery was very late.
+CUST_0375,2025-06-21 12:50:00,513.07,5,Very fast delivery.
+CUST_0022,2025-06-02 18:54:00,355.81,3,Delivery was very late.
+CUST_0238,2025-05-11 12:07:00,344.83,4,Good quality products.
+CUST_0158,2025-05-30 20:54:00,286.95,2,App glitches caused trouble.
+CUST_0038,2025-03-04 18:43:00,454.48,2,Delivery was very late.
+CUST_0230,2025-04-23 05:17:00,437.4,5,Great experience overall.
+CUST_0365,2025-06-30 04:31:00,346.15,4,Nothing special.
+CUST_0051,2025-03-28 08:58:00,314.87,5,Product quality acceptable.
+CUST_0438,2025-06-11 09:50:00,625.14,5,Very fast delivery.
+CUST_0264,2025-03-07 21:14:00,174.35,1,Customer support unhelpful.
+CUST_0283,2025-05-08 06:11:00,459.18,5,Good quality products.
+CUST_0027,2025-03-21 20:30:00,554.97,2,Delivery was very late.
+CUST_0226,2025-02-24 19:36:00,50.0,1,Wrong items delivered.
+CUST_0277,2025-02-04 11:19:00,495.3,3,Great experience overall.
+CUST_0286,2025-07-02 17:48:00,373.57,4,Excellent service!
+CUST_0097,2025-07-29 08:35:00,430.73,4,Great experience overall.
+CUST_0284,2025-05-28 01:35:00,361.21,5,User friendly app.
+CUST_0367,2025-04-07 14:33:00,529.05,3,Neutral experience.
+CUST_0448,2025-07-14 05:38:00,443.57,5,User friendly app.
+CUST_0481,2025-07-20 18:50:00,415.81,3,Very bad experience.
+CUST_0453,2025-06-05 11:02:00,292.14,3,Very fast delivery.
+CUST_0317,2025-02-18 07:20:00,625.88,5,Good quality products.
+CUST_0304,2025-06-23 00:34:00,401.19,5,Product quality acceptable.
+CUST_0147,2025-02-26 07:35:00,674.78,5,User friendly app.
+CUST_0004,2025-04-28 09:43:00,631.31,5,Loved the discounts.
+CUST_0035,2025-02-14 13:01:00,186.6,3,Average service.
+CUST_0192,2025-05-30 04:04:00,321.41,5,User friendly app.
+CUST_0049,2025-07-16 12:40:00,275.57,4,Good quality products.
+CUST_0017,2025-04-03 21:59:00,394.22,3,Poor packaging.
+CUST_0172,2025-06-05 14:13:00,422.46,5,Delivery was okay.
+CUST_0220,2025-04-25 01:38:00,427.59,4,Excellent service!
+CUST_0158,2025-04-11 16:58:00,526.5,4,Good quality products.
+CUST_0477,2025-04-30 01:34:00,579.23,5,Great experience overall.
+CUST_0046,2025-02-05 00:39:00,516.1,3,Delivery was okay.
+CUST_0373,2025-07-14 12:22:00,332.69,5,Neutral experience.
+CUST_0006,2025-03-19 10:09:00,306.16,4,User friendly app.
+CUST_0099,2025-05-29 13:15:00,400.33,3,Loved the discounts.
+CUST_0380,2025-05-04 09:11:00,451.13,4,Good quality products.
+CUST_0233,2025-05-05 08:00:00,378.02,3,Very fast delivery.
+CUST_0037,2025-06-13 19:07:00,238.54,2,Customer support unhelpful.
+CUST_0280,2025-07-21 11:00:00,481.85,5,Excellent service!
+CUST_0349,2025-03-29 21:19:00,352.92,3,Customer support unhelpful.
+CUST_0497,2025-02-28 10:36:00,349.3,3,User friendly app.
+CUST_0302,2025-07-25 04:11:00,393.45,3,User friendly app.
+CUST_0181,2025-07-15 16:48:00,371.21,5,Average service.
+CUST_0095,2025-05-31 11:55:00,356.02,5,Great experience overall.
+CUST_0099,2025-07-06 14:14:00,246.38,4,Loved the discounts.
+CUST_0188,2025-06-14 11:58:00,386.53,4,User friendly app.
+CUST_0481,2025-06-28 17:13:00,484.35,4,User friendly app.
+CUST_0116,2025-06-10 08:36:00,431.76,5,Excellent service!
+CUST_0191,2025-02-20 00:54:00,513.77,5,Neutral experience.
+CUST_0253,2025-03-07 05:36:00,312.57,4,User friendly app.
+CUST_0469,2025-03-31 04:32:00,246.63,4,Delivery was okay.
+CUST_0416,2025-07-29 13:11:00,370.5,5,Great experience overall.
+CUST_0471,2025-02-20 20:49:00,326.29,1,Wrong items delivered.
+CUST_0161,2025-03-15 01:24:00,338.76,4,Very fast delivery.
+CUST_0256,2025-03-22 06:30:00,425.41,4,Loved the discounts.
+CUST_0323,2025-07-21 17:22:00,339.63,3,Great experience overall.
+CUST_0128,2025-07-22 05:19:00,249.99,3,Neutral experience.
+CUST_0018,2025-07-01 12:51:00,332.92,5,Product quality acceptable.
+CUST_0281,2025-04-21 17:41:00,440.81,5,Delivery was okay.
+CUST_0490,2025-06-04 22:07:00,480.58,3,Very bad experience.
+CUST_0223,2025-04-26 00:54:00,479.37,5,Product quality acceptable.
+CUST_0054,2025-02-08 05:04:00,450.94,4,Great experience overall.
+CUST_0058,2025-04-27 14:33:00,379.83,5,Excellent service!
+CUST_0323,2025-03-27 22:25:00,448.59,1,Delivery was very late.
+CUST_0360,2025-07-21 09:29:00,394.92,5,Loved the discounts.
+CUST_0174,2025-05-25 17:16:00,413.57,5,Good quality products.
+CUST_0280,2025-02-26 07:46:00,287.28,4,Nothing special.
+CUST_0114,2025-05-24 11:26:00,405.26,4,Loved the discounts.
+CUST_0288,2025-04-13 13:03:00,445.44,4,Excellent service!
+CUST_0431,2025-03-05 00:18:00,440.94,3,Very fast delivery.
+CUST_0342,2025-03-03 15:13:00,245.5,3,Nothing special.
+CUST_0151,2025-03-25 15:04:00,411.55,5,Delivery was okay.
+CUST_0450,2025-05-16 01:49:00,226.73,5,Great experience overall.
+CUST_0127,2025-04-04 08:32:00,420.84,4,Great experience overall.
+CUST_0155,2025-07-19 15:12:00,315.84,3,Delivery was okay.
+CUST_0490,2025-04-14 20:12:00,604.68,1,App glitches caused trouble.
+CUST_0386,2025-07-09 08:10:00,414.31,5,Product quality acceptable.
+CUST_0474,2025-04-09 01:37:00,496.14,4,Very fast delivery.
+CUST_0273,2025-06-12 05:18:00,653.3,5,User friendly app.
+CUST_0104,2025-04-23 12:40:00,301.91,4,Nothing special.
+CUST_0417,2025-02-23 18:44:00,452.28,1,Poor packaging.
+CUST_0393,2025-04-16 00:23:00,257.69,4,Loved the discounts.
+CUST_0299,2025-03-26 06:24:00,441.39,5,Excellent service!
+CUST_0246,2025-06-23 00:11:00,611.89,5,Great experience overall.
+CUST_0176,2025-06-23 20:18:00,324.65,2,Customer support unhelpful.
+CUST_0039,2025-04-01 00:48:00,293.69,4,Excellent service!
+CUST_0477,2025-03-07 11:37:00,389.06,5,Product quality acceptable.
+CUST_0170,2025-02-11 02:07:00,645.5,5,Loved the discounts.
+CUST_0247,2025-05-21 13:09:00,492.52,3,Neutral experience.
+CUST_0026,2025-07-24 08:02:00,291.41,4,Neutral experience.
+CUST_0355,2025-04-26 07:47:00,574.61,4,User friendly app.
+CUST_0306,2025-07-06 20:28:00,201.39,3,Wrong items delivered.
+CUST_0409,2025-07-04 11:04:00,656.39,5,User friendly app.
+CUST_0408,2025-03-20 04:14:00,502.77,5,Very fast delivery.
+CUST_0013,2025-03-16 03:14:00,611.63,4,Great experience overall.
+CUST_0316,2025-03-15 15:22:00,202.26,5,Great experience overall.
+CUST_0391,2025-04-11 13:49:00,420.33,5,Nothing special.
+CUST_0313,2025-05-19 10:44:00,383.93,5,Great experience overall.
+CUST_0036,2025-02-21 22:42:00,279.16,1,Very bad experience.
+CUST_0173,2025-04-21 14:52:00,244.48,4,Very fast delivery.
+CUST_0020,2025-06-04 14:24:00,460.85,5,Loved the discounts.
+CUST_0321,2025-03-08 10:50:00,471.73,4,Product quality acceptable.
+CUST_0264,2025-02-15 03:20:00,556.0,4,Loved the discounts.
+CUST_0494,2025-06-21 21:18:00,339.59,2,Very bad experience.
+CUST_0400,2025-03-06 13:03:00,383.01,4,Delivery was okay.
+CUST_0142,2025-05-28 19:45:00,234.1,1,Wrong items delivered.
+CUST_0460,2025-02-27 14:27:00,584.89,4,Delivery was okay.
+CUST_0371,2025-03-07 07:15:00,408.35,4,Loved the discounts.
+CUST_0471,2025-05-17 03:29:00,486.71,5,Product quality acceptable.
+CUST_0143,2025-06-26 01:48:00,490.95,5,Good quality products.
+CUST_0092,2025-04-18 03:25:00,575.09,5,User friendly app.
+CUST_0354,2025-04-30 10:06:00,300.23,5,Delivery was okay.
+CUST_0322,2025-05-06 11:09:00,483.71,4,Neutral experience.
+CUST_0288,2025-03-11 12:30:00,397.0,3,Delivery was okay.
+CUST_0215,2025-04-12 23:48:00,652.68,4,Great experience overall.
+CUST_0447,2025-07-20 09:55:00,299.88,4,Good quality products.
+CUST_0342,2025-03-08 19:03:00,540.57,3,App glitches caused trouble.
+CUST_0051,2025-05-29 06:53:00,442.04,4,Nothing special.
+CUST_0153,2025-06-09 11:55:00,435.74,4,Loved the discounts.
+CUST_0186,2025-07-23 09:46:00,406.48,4,Delivery was okay.
+CUST_0063,2025-06-03 12:54:00,561.6,4,Product quality acceptable.
+CUST_0190,2025-06-30 21:20:00,431.66,2,Delivery was very late.
+CUST_0125,2025-06-17 08:14:00,217.07,3,Loved the discounts.
+CUST_0150,2025-02-10 23:57:00,546.34,5,Loved the discounts.
+CUST_0314,2025-06-01 09:07:00,524.34,4,User friendly app.
+CUST_0058,2025-07-02 15:48:00,470.46,3,Delivery was okay.
+CUST_0342,2025-07-04 04:03:00,264.58,5,Nothing special.
+CUST_0305,2025-03-22 23:18:00,283.23,3,Nothing special.
+CUST_0180,2025-05-11 06:09:00,174.71,3,Product quality acceptable.
+CUST_0170,2025-04-30 17:18:00,455.24,5,Average service.
+CUST_0326,2025-07-14 09:32:00,238.05,5,Average service.
+CUST_0271,2025-04-10 14:48:00,193.75,3,Nothing special.
+CUST_0054,2025-05-19 01:32:00,553.0,4,Neutral experience.
+CUST_0491,2025-05-30 20:16:00,492.18,3,Poor packaging.
+CUST_0444,2025-06-30 15:36:00,360.02,4,Product quality acceptable.
+CUST_0101,2025-06-23 02:27:00,383.91,5,Average service.
+CUST_0481,2025-07-10 10:09:00,111.12,3,Average service.
+CUST_0264,2025-04-19 12:56:00,510.01,5,Neutral experience.
+CUST_0053,2025-07-03 01:34:00,316.87,5,Very fast delivery.
+CUST_0060,2025-02-07 20:17:00,439.63,1,Wrong items delivered.
+CUST_0492,2025-04-08 09:53:00,101.37,3,Neutral experience.
+CUST_0108,2025-06-05 06:40:00,517.31,5,Neutral experience.
+CUST_0005,2025-02-24 13:18:00,309.66,5,Neutral experience.
+CUST_0103,2025-04-09 05:41:00,234.87,5,Nothing special.
+CUST_0196,2025-03-04 06:44:00,359.25,4,Great experience overall.
+CUST_0262,2025-03-08 07:36:00,328.43,4,Very fast delivery.
+CUST_0365,2025-05-08 03:02:00,528.91,4,User friendly app.
+CUST_0480,2025-04-14 07:32:00,349.55,5,Neutral experience.
+CUST_0372,2025-06-03 05:40:00,563.51,4,Loved the discounts.
+CUST_0350,2025-02-13 16:59:00,439.62,4,User friendly app.
+CUST_0047,2025-06-10 04:43:00,507.32,4,User friendly app.
+CUST_0355,2025-02-27 20:07:00,399.74,3,Poor packaging.
+CUST_0311,2025-03-22 02:53:00,552.65,4,Excellent service!
+CUST_0424,2025-03-16 02:21:00,261.57,3,Excellent service!
+CUST_0308,2025-04-11 01:22:00,413.63,3,User friendly app.
+CUST_0144,2025-07-22 01:37:00,352.43,3,Average service.
+CUST_0269,2025-03-07 01:22:00,567.6,4,Nothing special.
+CUST_0370,2025-03-02 19:07:00,579.88,1,Delivery was very late.
+CUST_0124,2025-06-30 11:57:00,400.05,3,Average service.
+CUST_0106,2025-03-08 04:12:00,245.02,5,Delivery was okay.
+CUST_0158,2025-03-03 14:56:00,451.25,5,Neutral experience.
+CUST_0147,2025-03-27 15:41:00,200.25,4,Nothing special.
+CUST_0145,2025-07-08 22:15:00,595.14,3,Poor packaging.
+CUST_0120,2025-02-12 16:15:00,343.22,3,Delivery was okay.
+CUST_0319,2025-06-20 07:19:00,396.33,5,Average service.
+CUST_0275,2025-02-03 15:29:00,318.29,5,Delivery was okay.
+CUST_0092,2025-02-23 18:39:00,291.79,2,Poor packaging.
+CUST_0058,2025-05-29 04:19:00,488.47,4,Good quality products.
+CUST_0439,2025-05-15 23:43:00,380.97,4,Neutral experience.
+CUST_0346,2025-04-06 20:19:00,405.1,2,Very bad experience.
+CUST_0229,2025-06-30 17:07:00,279.53,5,Excellent service!
+CUST_0474,2025-03-04 00:52:00,502.73,3,Very fast delivery.
+CUST_0117,2025-02-16 11:37:00,514.93,3,Delivery was okay.
+CUST_0318,2025-06-22 03:32:00,374.93,3,User friendly app.
+CUST_0279,2025-07-01 17:44:00,552.15,4,Good quality products.
+CUST_0127,2025-04-07 08:20:00,387.51,4,Product quality acceptable.
+CUST_0393,2025-02-02 08:00:00,493.57,3,Average service.
+CUST_0396,2025-04-16 02:51:00,205.25,5,Excellent service!
+CUST_0129,2025-07-01 03:17:00,442.41,4,Product quality acceptable.
+CUST_0058,2025-03-27 05:34:00,367.42,3,User friendly app.
+CUST_0122,2025-06-30 10:14:00,418.66,5,Very fast delivery.
+CUST_0001,2025-04-27 04:51:00,413.28,3,Average service.
+CUST_0239,2025-02-12 14:48:00,415.08,5,Good quality products.
+CUST_0290,2025-03-14 05:17:00,473.88,5,Average service.
+CUST_0096,2025-07-23 02:29:00,332.18,4,Neutral experience.
+CUST_0126,2025-07-08 13:05:00,468.29,3,Product quality acceptable.
+CUST_0118,2025-04-08 15:06:00,547.9,4,Product quality acceptable.
+CUST_0048,2025-07-30 13:08:00,230.78,3,Nothing special.
+CUST_0089,2025-06-23 20:34:00,306.34,1,Wrong items delivered.
+CUST_0488,2025-04-07 01:34:00,311.38,4,Average service.
+CUST_0237,2025-02-20 17:09:00,268.95,4,Nothing special.
+CUST_0373,2025-02-25 01:24:00,343.04,4,Product quality acceptable.
+CUST_0385,2025-03-26 00:35:00,523.97,5,Delivery was okay.
+CUST_0272,2025-05-06 13:00:00,573.71,4,Product quality acceptable.
+CUST_0189,2025-05-21 15:53:00,412.74,3,Average service.
+CUST_0487,2025-06-05 19:02:00,361.09,1,Poor packaging.
+CUST_0192,2025-07-19 05:24:00,496.35,5,Average service.
+CUST_0447,2025-06-21 20:33:00,116.32,2,Customer support unhelpful.
+CUST_0069,2025-06-16 20:33:00,273.38,3,Wrong items delivered.
+CUST_0278,2025-02-25 14:03:00,121.4,2,Average service.
+CUST_0349,2025-07-23 11:31:00,272.12,5,Neutral experience.
+CUST_0247,2025-06-08 12:30:00,307.96,4,Loved the discounts.
+CUST_0451,2025-04-19 19:17:00,577.32,1,App glitches caused trouble.
+CUST_0076,2025-04-01 05:31:00,68.67,2,Nothing special.
+CUST_0154,2025-05-04 10:01:00,350.0,4,Neutral experience.
+CUST_0144,2025-04-01 22:18:00,474.35,1,Poor packaging.
+CUST_0435,2025-03-03 18:04:00,449.29,1,Wrong items delivered.
+CUST_0485,2025-07-12 09:24:00,575.41,5,Average service.
+CUST_0086,2025-06-10 10:49:00,419.33,5,Very fast delivery.
+CUST_0185,2025-07-09 23:14:00,444.91,4,Loved the discounts.
+CUST_0285,2025-04-24 08:34:00,179.38,2,Average service.
+CUST_0462,2025-06-29 08:27:00,281.41,3,Loved the discounts.
+CUST_0220,2025-05-26 06:15:00,186.08,3,Product quality acceptable.
+CUST_0069,2025-06-24 00:03:00,468.71,4,Great experience overall.
+CUST_0047,2025-02-04 06:39:00,441.84,5,Product quality acceptable.
+CUST_0497,2025-02-17 04:38:00,437.62,4,Very fast delivery.
+CUST_0094,2025-06-04 19:28:00,294.23,1,Poor packaging.
+CUST_0238,2025-03-24 03:59:00,283.25,5,Good quality products.
+CUST_0446,2025-07-16 06:49:00,425.13,5,User friendly app.
+CUST_0453,2025-04-04 04:51:00,319.67,4,Delivery was okay.
+CUST_0204,2025-04-03 02:06:00,277.55,4,Good quality products.
+CUST_0400,2025-07-05 21:13:00,338.99,3,Very bad experience.
+CUST_0218,2025-04-27 04:54:00,320.71,3,User friendly app.
+CUST_0474,2025-06-10 20:53:00,295.99,3,Delivery was very late.
+CUST_0432,2025-04-20 20:09:00,252.91,1,Customer support unhelpful.
+CUST_0341,2025-03-30 23:38:00,453.84,5,Delivery was okay.
+CUST_0039,2025-06-13 00:12:00,586.73,5,Great experience overall.
+CUST_0100,2025-04-23 04:44:00,395.32,4,Product quality acceptable.
+CUST_0289,2025-07-10 03:16:00,426.69,5,Average service.
+CUST_0254,2025-06-19 20:51:00,464.37,1,Customer support unhelpful.
+CUST_0222,2025-05-28 03:33:00,443.99,4,Excellent service!
+CUST_0357,2025-03-24 15:59:00,298.37,4,User friendly app.
+CUST_0023,2025-04-23 07:34:00,606.38,5,User friendly app.
+CUST_0250,2025-07-30 05:41:00,309.12,5,Delivery was okay.
+CUST_0010,2025-02-21 09:12:00,477.77,3,Nothing special.
+CUST_0246,2025-05-24 08:16:00,463.62,3,Excellent service!
+CUST_0325,2025-05-31 08:40:00,164.99,2,Neutral experience.
+CUST_0100,2025-06-09 01:59:00,356.94,3,Delivery was okay.
+CUST_0290,2025-03-20 00:09:00,406.8,4,Average service.
+CUST_0180,2025-03-30 07:20:00,415.98,5,Excellent service!
+CUST_0223,2025-02-28 10:54:00,436.17,5,Great experience overall.
+CUST_0394,2025-03-06 07:58:00,490.92,5,Loved the discounts.
+CUST_0250,2025-07-27 14:16:00,399.1,3,Delivery was okay.
+CUST_0147,2025-04-28 23:44:00,442.55,4,Delivery was okay.
+CUST_0442,2025-04-10 11:00:00,394.61,3,Product quality acceptable.
+CUST_0096,2025-04-28 04:07:00,277.92,4,Product quality acceptable.
+CUST_0257,2025-04-18 07:56:00,403.89,4,Nothing special.
+CUST_0325,2025-04-28 10:00:00,489.89,3,User friendly app.
+CUST_0493,2025-05-20 18:23:00,533.05,1,Customer support unhelpful.
+CUST_0004,2025-07-02 16:04:00,464.48,5,User friendly app.
+CUST_0016,2025-06-28 20:39:00,560.12,2,Wrong items delivered.
+CUST_0280,2025-03-30 13:35:00,450.26,4,Delivery was okay.
+CUST_0336,2025-06-19 19:14:00,503.67,1,Customer support unhelpful.
+CUST_0247,2025-06-15 18:27:00,512.49,1,Delivery was very late.
+CUST_0258,2025-03-23 10:57:00,373.2,5,Delivery was okay.
+CUST_0497,2025-02-05 04:29:00,487.12,3,Great experience overall.
+CUST_0476,2025-05-07 07:09:00,287.12,4,Neutral experience.
+CUST_0384,2025-03-10 14:31:00,441.98,3,Neutral experience.
+CUST_0160,2025-05-23 16:30:00,469.24,4,Delivery was okay.
+CUST_0475,2025-06-16 07:24:00,526.13,3,Good quality products.
+CUST_0340,2025-04-14 01:14:00,498.49,5,Average service.
+CUST_0152,2025-07-28 02:48:00,527.69,5,Good quality products.
+CUST_0396,2025-03-08 03:13:00,388.07,5,Nothing special.
+CUST_0178,2025-05-16 08:24:00,358.55,4,Product quality acceptable.
+CUST_0163,2025-06-02 22:49:00,367.01,3,Delivery was very late.
+CUST_0380,2025-02-10 20:35:00,431.95,2,Customer support unhelpful.
+CUST_0033,2025-06-20 07:01:00,182.95,2,Neutral experience.
+CUST_0417,2025-05-29 12:52:00,559.81,5,Nothing special.
+CUST_0445,2025-07-10 15:31:00,405.26,3,Neutral experience.
+CUST_0179,2025-03-04 01:10:00,350.2,3,Excellent service!
+CUST_0427,2025-02-10 14:16:00,96.43,3,Delivery was okay.
+CUST_0101,2025-07-18 17:54:00,395.58,4,Neutral experience.
+CUST_0268,2025-07-03 07:58:00,376.18,4,Delivery was okay.
+CUST_0323,2025-04-19 17:21:00,292.35,4,Good quality products.
+CUST_0065,2025-07-08 19:20:00,319.23,3,Customer support unhelpful.
+CUST_0417,2025-07-22 18:45:00,396.8,3,Poor packaging.
+CUST_0168,2025-05-24 23:20:00,329.41,5,Excellent service!
+CUST_0330,2025-06-02 22:38:00,468.63,1,Wrong items delivered.
+CUST_0043,2025-02-12 08:46:00,310.15,3,Delivery was okay.
+CUST_0044,2025-02-18 20:12:00,418.55,2,Wrong items delivered.
+CUST_0285,2025-06-29 07:45:00,541.61,3,User friendly app.
+CUST_0397,2025-05-15 13:06:00,395.61,3,Average service.
+CUST_0012,2025-07-01 11:31:00,442.72,4,Great experience overall.
+CUST_0095,2025-04-27 21:42:00,435.12,2,Wrong items delivered.
+CUST_0302,2025-04-30 21:27:00,400.96,3,Customer support unhelpful.
+CUST_0386,2025-03-01 12:17:00,391.96,4,Loved the discounts.
+CUST_0253,2025-02-02 20:14:00,331.44,1,Customer support unhelpful.
+CUST_0499,2025-07-30 17:30:00,418.12,3,Loved the discounts.
+CUST_0242,2025-07-01 23:43:00,366.01,5,Very fast delivery.
+CUST_0035,2025-02-22 10:36:00,585.53,5,Average service.
+CUST_0215,2025-05-08 23:02:00,497.34,5,Excellent service!
+CUST_0337,2025-05-29 18:22:00,225.66,3,Very bad experience.
+CUST_0090,2025-07-07 06:43:00,232.34,4,Product quality acceptable.
+CUST_0264,2025-05-22 04:46:00,384.34,4,Excellent service!
+CUST_0093,2025-06-16 09:57:00,352.56,4,Great experience overall.
+CUST_0410,2025-06-24 07:00:00,378.02,4,User friendly app.
+CUST_0458,2025-05-19 04:02:00,478.14,4,Neutral experience.
+CUST_0090,2025-06-12 07:34:00,437.89,4,Very fast delivery.
+CUST_0418,2025-04-05 09:33:00,436.68,5,Neutral experience.
+CUST_0115,2025-02-10 20:45:00,573.54,3,Delivery was very late.
+CUST_0105,2025-07-05 01:40:00,233.33,5,Excellent service!
+CUST_0391,2025-05-23 12:08:00,412.47,5,User friendly app.
+CUST_0196,2025-07-14 21:41:00,330.51,2,Poor packaging.
+CUST_0314,2025-05-01 21:11:00,572.25,1,Delivery was very late.
+CUST_0114,2025-02-14 01:52:00,134.88,2,Neutral experience.
+CUST_0493,2025-06-01 19:10:00,140.14,2,Poor packaging.
+CUST_0075,2025-06-24 18:30:00,436.56,2,Poor packaging.
+CUST_0413,2025-04-11 23:18:00,535.16,3,Good quality products.
+CUST_0376,2025-05-12 03:46:00,492.79,5,Average service.
+CUST_0420,2025-06-05 03:19:00,303.88,3,Neutral experience.
+CUST_0217,2025-06-18 23:53:00,580.77,4,Very fast delivery.
+CUST_0277,2025-07-04 04:37:00,252.22,5,Nothing special.
+CUST_0249,2025-03-26 07:38:00,556.9,3,User friendly app.
+CUST_0164,2025-06-29 09:37:00,268.09,3,Average service.
+CUST_0394,2025-07-24 03:59:00,357.78,4,Loved the discounts.
+CUST_0357,2025-03-29 12:19:00,476.71,5,Great experience overall.
+CUST_0457,2025-02-17 22:06:00,224.06,2,Poor packaging.
+CUST_0408,2025-02-04 13:02:00,576.28,5,Nothing special.
+CUST_0192,2025-04-21 22:51:00,357.05,2,App glitches caused trouble.
+CUST_0227,2025-06-12 23:23:00,416.47,3,Very fast delivery.
+CUST_0177,2025-07-12 17:18:00,539.46,5,Good quality products.
+CUST_0099,2025-07-09 18:48:00,304.82,1,Wrong items delivered.
+CUST_0496,2025-04-04 13:18:00,527.3,5,Very fast delivery.
+CUST_0036,2025-06-30 23:44:00,596.86,4,Nothing special.
+CUST_0466,2025-04-17 05:52:00,321.33,5,Excellent service!
+CUST_0497,2025-07-09 03:18:00,564.33,3,Loved the discounts.
+CUST_0487,2025-07-26 12:35:00,188.73,2,Neutral experience.
+CUST_0096,2025-05-05 22:48:00,446.75,1,Very bad experience.
+CUST_0152,2025-06-26 19:48:00,252.57,1,Customer support unhelpful.
+CUST_0151,2025-03-19 10:56:00,513.11,5,Delivery was okay.
+CUST_0190,2025-05-29 12:32:00,503.25,4,User friendly app.
+CUST_0224,2025-06-25 05:03:00,649.29,5,Excellent service!
+CUST_0037,2025-06-28 15:46:00,570.55,3,Nothing special.
+CUST_0268,2025-06-23 05:46:00,380.11,4,Neutral experience.
+CUST_0369,2025-04-19 10:38:00,270.19,5,User friendly app.
+CUST_0183,2025-06-17 15:04:00,467.88,4,Very fast delivery.
+CUST_0013,2025-04-02 09:49:00,392.71,5,Loved the discounts.
+CUST_0279,2025-02-03 12:42:00,586.14,5,Neutral experience.
+CUST_0217,2025-05-24 21:44:00,140.03,3,App glitches caused trouble.
+CUST_0355,2025-04-22 12:50:00,662.57,5,Excellent service!
+CUST_0361,2025-06-27 09:34:00,463.84,5,Nothing special.
+CUST_0286,2025-03-18 18:04:00,302.44,3,Delivery was very late.
+CUST_0273,2025-05-04 04:19:00,488.08,5,Great experience overall.
+CUST_0369,2025-03-21 20:09:00,555.69,2,App glitches caused trouble.
+CUST_0062,2025-02-05 03:05:00,413.72,5,Delivery was okay.
+CUST_0084,2025-05-01 03:38:00,188.21,3,Product quality acceptable.
+CUST_0368,2025-03-11 17:34:00,364.74,5,Very fast delivery.
+CUST_0217,2025-06-09 23:56:00,524.73,3,Product quality acceptable.
+CUST_0342,2025-05-11 05:40:00,459.6,3,Neutral experience.
+CUST_0397,2025-07-24 11:59:00,381.22,5,Great experience overall.
+CUST_0187,2025-03-29 19:23:00,557.0,1,Delivery was very late.
+CUST_0019,2025-03-08 20:29:00,488.72,2,Customer support unhelpful.
+CUST_0177,2025-07-02 11:41:00,497.96,4,Average service.
+CUST_0100,2025-07-08 21:27:00,350.72,2,Delivery was very late.
+CUST_0396,2025-06-15 02:54:00,339.11,3,Delivery was okay.
+CUST_0445,2025-02-14 23:09:00,196.0,2,Product quality acceptable.
+CUST_0233,2025-04-21 15:53:00,368.87,5,Neutral experience.
+CUST_0403,2025-05-17 12:05:00,512.25,5,Average service.
+CUST_0076,2025-03-16 08:44:00,375.51,5,Good quality products.
+CUST_0265,2025-05-18 19:17:00,453.46,2,Customer support unhelpful.
+CUST_0455,2025-05-18 20:03:00,533.34,2,Poor packaging.
+CUST_0284,2025-07-28 00:26:00,444.74,5,Product quality acceptable.
+CUST_0206,2025-02-07 05:14:00,456.46,4,Neutral experience.
+CUST_0223,2025-07-10 23:10:00,237.06,3,Loved the discounts.
+CUST_0384,2025-06-28 23:14:00,361.29,5,Nothing special.
+CUST_0052,2025-07-26 06:20:00,607.2,5,Loved the discounts.
+CUST_0339,2025-07-20 11:55:00,412.46,5,Average service.
+CUST_0367,2025-06-08 13:56:00,627.61,4,User friendly app.
+CUST_0144,2025-07-15 20:17:00,313.23,2,Customer support unhelpful.
+CUST_0373,2025-04-10 02:22:00,428.07,4,Nothing special.
+CUST_0069,2025-07-15 23:48:00,354.08,4,Loved the discounts.
+CUST_0099,2025-06-27 18:24:00,471.04,1,Wrong items delivered.
+CUST_0396,2025-04-26 11:56:00,507.4,4,User friendly app.
+CUST_0025,2025-07-19 00:49:00,472.3,4,Very fast delivery.
+CUST_0436,2025-05-28 03:41:00,525.02,4,Loved the discounts.
+CUST_0379,2025-04-12 21:54:00,398.42,2,Customer support unhelpful.
+CUST_0469,2025-03-05 16:23:00,377.14,5,User friendly app.
+CUST_0484,2025-04-02 01:27:00,189.02,3,Nothing special.
+CUST_0053,2025-03-15 08:38:00,476.61,5,Nothing special.
+CUST_0151,2025-04-27 16:16:00,420.66,4,Nothing special.
+CUST_0144,2025-05-09 05:45:00,391.85,4,Neutral experience.
+CUST_0057,2025-05-09 00:09:00,377.1,5,Delivery was okay.
+CUST_0039,2025-04-26 04:01:00,395.57,3,Great experience overall.
+CUST_0109,2025-02-22 15:56:00,371.65,4,Excellent service!
+CUST_0181,2025-04-07 09:33:00,336.64,4,Average service.
+CUST_0042,2025-06-24 15:50:00,428.75,3,Great experience overall.
+CUST_0186,2025-06-05 06:21:00,458.1,5,Good quality products.
+CUST_0423,2025-04-17 23:46:00,307.53,4,Average service.
+CUST_0398,2025-07-18 05:59:00,351.91,4,User friendly app.
+CUST_0223,2025-03-31 09:34:00,375.45,3,Great experience overall.
+CUST_0122,2025-04-04 16:31:00,400.58,5,Loved the discounts.
+CUST_0133,2025-06-15 20:19:00,384.62,1,Wrong items delivered.
+CUST_0163,2025-07-04 03:45:00,479.17,5,Loved the discounts.
+CUST_0215,2025-05-27 21:14:00,201.72,2,App glitches caused trouble.
+CUST_0221,2025-05-31 07:20:00,223.0,3,Loved the discounts.
+CUST_0235,2025-04-20 21:51:00,423.23,2,App glitches caused trouble.
+CUST_0331,2025-05-03 13:26:00,327.68,3,Excellent service!
+CUST_0146,2025-06-05 08:39:00,506.11,4,Product quality acceptable.
+CUST_0239,2025-03-30 16:01:00,540.38,4,User friendly app.
+CUST_0076,2025-07-03 23:02:00,428.05,5,Very fast delivery.
+CUST_0009,2025-03-16 00:41:00,271.36,3,User friendly app.
+CUST_0074,2025-02-06 06:51:00,526.55,5,Delivery was okay.
+CUST_0442,2025-02-23 17:42:00,423.87,3,Average service.
+CUST_0492,2025-06-27 04:50:00,221.57,4,Product quality acceptable.
+CUST_0401,2025-02-11 23:11:00,232.18,4,User friendly app.
+CUST_0253,2025-04-15 07:23:00,582.03,5,Average service.
+CUST_0230,2025-03-13 03:36:00,562.14,4,Neutral experience.
+CUST_0007,2025-04-26 07:54:00,97.94,2,Nothing special.
+CUST_0174,2025-06-17 14:14:00,237.07,4,Average service.
+CUST_0141,2025-07-26 13:39:00,536.9,3,Excellent service!
+CUST_0168,2025-03-14 19:05:00,397.78,1,Delivery was very late.
+CUST_0170,2025-02-12 01:06:00,484.22,4,Loved the discounts.
+CUST_0393,2025-04-21 02:44:00,392.57,3,User friendly app.
+CUST_0434,2025-02-03 17:42:00,478.54,3,Delivery was okay.
+CUST_0283,2025-03-12 05:32:00,400.7,5,User friendly app.
+CUST_0122,2025-06-09 22:07:00,347.49,1,Wrong items delivered.
+CUST_0194,2025-05-12 15:42:00,527.05,3,Neutral experience.
+CUST_0005,2025-05-12 03:29:00,424.25,4,Nothing special.
+CUST_0029,2025-05-21 21:18:00,478.29,2,Wrong items delivered.
+CUST_0165,2025-03-04 08:11:00,418.89,4,Average service.
+CUST_0422,2025-06-19 13:54:00,341.64,4,Product quality acceptable.
+CUST_0339,2025-02-16 00:44:00,593.01,3,Product quality acceptable.
+CUST_0136,2025-05-30 20:20:00,442.6,2,Wrong items delivered.
+CUST_0496,2025-07-08 12:33:00,357.39,4,Delivery was okay.
+CUST_0365,2025-02-04 05:57:00,553.4,5,Product quality acceptable.
+CUST_0321,2025-03-31 22:26:00,241.5,3,Wrong items delivered.
+CUST_0342,2025-04-10 02:32:00,668.35,5,Good quality products.
+CUST_0145,2025-02-25 19:33:00,378.5,1,Very bad experience.
+CUST_0327,2025-07-04 04:34:00,247.84,4,Average service.
+CUST_0217,2025-02-09 19:37:00,628.71,1,Wrong items delivered.
+CUST_0301,2025-07-28 05:18:00,344.42,3,Loved the discounts.
+CUST_0132,2025-04-01 11:56:00,429.19,3,Loved the discounts.
+CUST_0292,2025-06-19 01:46:00,486.12,5,User friendly app.
+CUST_0070,2025-05-19 11:08:00,542.1,4,Very fast delivery.
+CUST_0252,2025-06-11 11:27:00,435.97,4,User friendly app.
+CUST_0415,2025-03-02 15:20:00,322.32,4,Great experience overall.
+CUST_0275,2025-07-06 23:25:00,426.28,4,Very fast delivery.
+CUST_0445,2025-07-11 20:34:00,349.68,1,Very bad experience.
+CUST_0364,2025-07-30 01:40:00,429.88,5,Product quality acceptable.
+CUST_0182,2025-03-23 14:17:00,595.38,3,Good quality products.
+CUST_0167,2025-03-30 10:56:00,490.71,5,User friendly app.
+CUST_0091,2025-02-23 15:21:00,424.8,5,User friendly app.
+CUST_0202,2025-02-17 04:43:00,488.62,5,Average service.
+CUST_0346,2025-06-19 14:26:00,497.21,4,Loved the discounts.
+CUST_0019,2025-07-13 00:19:00,270.66,3,Nothing special.
+CUST_0039,2025-06-05 15:33:00,405.01,4,Product quality acceptable.
+CUST_0126,2025-04-07 02:39:00,707.5,5,Loved the discounts.
+CUST_0451,2025-07-06 14:38:00,545.54,4,Loved the discounts.
+CUST_0173,2025-06-28 00:07:00,339.59,5,Very fast delivery.
+CUST_0141,2025-04-28 02:03:00,327.62,4,User friendly app.
+CUST_0242,2025-07-03 14:37:00,323.62,4,Loved the discounts.
+CUST_0220,2025-06-23 20:34:00,503.96,1,Poor packaging.
+CUST_0126,2025-03-29 20:52:00,592.92,1,Wrong items delivered.
+CUST_0058,2025-03-18 19:13:00,469.86,2,Poor packaging.
+CUST_0148,2025-06-25 06:08:00,418.86,5,Loved the discounts.
+CUST_0476,2025-05-10 12:14:00,346.7,5,Excellent service!
+CUST_0456,2025-05-26 00:05:00,439.52,5,Product quality acceptable.
+CUST_0317,2025-07-01 01:55:00,301.59,5,Good quality products.
+CUST_0383,2025-03-18 05:13:00,167.71,3,Product quality acceptable.
+CUST_0361,2025-05-11 20:07:00,596.42,1,Delivery was very late.
+CUST_0423,2025-03-07 18:29:00,279.3,2,Delivery was very late.
+CUST_0001,2025-04-19 19:48:00,361.02,1,App glitches caused trouble.
+CUST_0387,2025-02-25 07:23:00,478.76,3,Loved the discounts.
+CUST_0461,2025-02-14 05:22:00,572.14,5,Good quality products.
+CUST_0348,2025-06-30 15:56:00,430.86,4,Neutral experience.
+CUST_0190,2025-04-24 13:50:00,256.75,3,Average service.
+CUST_0191,2025-06-11 09:18:00,363.84,3,Very fast delivery.
+CUST_0369,2025-02-28 19:44:00,318.58,1,Delivery was very late.
+CUST_0409,2025-04-12 13:08:00,395.41,5,Nothing special.
+CUST_0312,2025-06-04 22:56:00,547.84,1,Wrong items delivered.
+CUST_0417,2025-02-19 14:51:00,95.51,2,Nothing special.
+CUST_0422,2025-06-22 23:37:00,350.63,4,Average service.
+CUST_0117,2025-04-02 03:39:00,341.91,4,Average service.
+CUST_0134,2025-03-02 08:32:00,249.19,5,Great experience overall.
+CUST_0058,2025-05-31 19:24:00,470.26,1,Poor packaging.
+CUST_0044,2025-06-22 10:52:00,230.2,4,Excellent service!
+CUST_0173,2025-04-19 08:03:00,244.01,5,Loved the discounts.
+CUST_0160,2025-04-09 07:01:00,502.13,5,Average service.
+CUST_0173,2025-05-16 13:21:00,580.07,5,Very fast delivery.
+CUST_0317,2025-07-19 23:54:00,390.87,5,Very fast delivery.
+CUST_0303,2025-02-16 16:47:00,253.91,3,Delivery was okay.
+CUST_0149,2025-07-08 11:34:00,315.33,4,Average service.
+CUST_0080,2025-02-11 13:49:00,520.96,4,Very fast delivery.
+CUST_0374,2025-06-29 04:47:00,413.97,5,Nothing special.
+CUST_0213,2025-02-20 04:02:00,387.88,3,Neutral experience.
+CUST_0203,2025-07-22 00:52:00,437.57,3,Neutral experience.
+CUST_0252,2025-06-17 03:34:00,395.48,4,Excellent service!
+CUST_0229,2025-04-06 07:44:00,585.49,3,Good quality products.
+CUST_0164,2025-04-28 14:39:00,310.1,3,Good quality products.
+CUST_0227,2025-04-17 21:11:00,296.32,3,App glitches caused trouble.
+CUST_0147,2025-07-24 14:14:00,233.99,4,Loved the discounts.
+CUST_0020,2025-05-16 18:25:00,335.2,2,Delivery was very late.
+CUST_0441,2025-03-24 21:39:00,268.96,2,Poor packaging.
+CUST_0402,2025-02-21 18:37:00,426.17,1,Delivery was very late.
+CUST_0047,2025-02-20 18:03:00,402.51,1,App glitches caused trouble.
+CUST_0233,2025-03-27 06:27:00,270.51,4,Delivery was okay.
+CUST_0305,2025-02-28 03:21:00,470.7,4,Nothing special.
+CUST_0014,2025-04-17 12:02:00,582.02,5,Nothing special.
+CUST_0143,2025-04-27 11:01:00,442.94,4,Nothing special.
+CUST_0415,2025-07-12 22:40:00,94.78,1,Poor packaging.
+CUST_0001,2025-02-01 07:22:00,638.46,5,Loved the discounts.
+CUST_0373,2025-07-16 05:21:00,489.63,5,Delivery was okay.
+CUST_0054,2025-07-03 17:16:00,634.77,5,User friendly app.
+CUST_0374,2025-04-02 11:05:00,530.89,5,Average service.
+CUST_0259,2025-02-27 07:18:00,554.86,5,Loved the discounts.
+CUST_0144,2025-06-04 09:00:00,424.63,4,Nothing special.
+CUST_0471,2025-05-04 12:48:00,368.52,5,Delivery was okay.
+CUST_0441,2025-05-10 07:13:00,444.82,3,Loved the discounts.
+CUST_0459,2025-03-07 15:44:00,314.95,5,Nothing special.
+CUST_0012,2025-04-25 23:48:00,452.07,5,Nothing special.
+CUST_0330,2025-06-21 05:48:00,84.79,2,Delivery was okay.
+CUST_0224,2025-03-18 16:07:00,405.15,5,Nothing special.
+CUST_0272,2025-03-15 19:59:00,561.36,3,Very bad experience.
+CUST_0456,2025-05-08 06:20:00,411.32,4,Very fast delivery.
+CUST_0358,2025-07-27 09:42:00,607.3,5,Very fast delivery.
+CUST_0460,2025-03-26 08:08:00,368.35,3,Neutral experience.
+CUST_0408,2025-04-29 04:48:00,520.32,4,User friendly app.
+CUST_0156,2025-03-13 16:23:00,294.61,4,Loved the discounts.
+CUST_0373,2025-02-21 18:58:00,515.43,2,Very bad experience.
+CUST_0008,2025-07-17 22:40:00,427.91,3,Delivery was very late.
+CUST_0122,2025-03-11 12:10:00,373.63,5,Good quality products.
+CUST_0348,2025-06-27 10:12:00,91.13,3,Average service.
+CUST_0164,2025-06-07 13:44:00,369.47,4,Good quality products.
+CUST_0090,2025-02-01 07:43:00,425.61,5,Product quality acceptable.
+CUST_0136,2025-02-19 11:07:00,499.45,3,Very fast delivery.
+CUST_0186,2025-05-20 11:47:00,587.31,5,Good quality products.
+CUST_0316,2025-07-11 12:25:00,644.2,5,Excellent service!
+CUST_0178,2025-05-14 04:07:00,549.55,3,Delivery was okay.
+CUST_0028,2025-07-03 13:22:00,332.55,5,Average service.
+CUST_0220,2025-07-08 12:46:00,363.42,4,Nothing special.
+CUST_0357,2025-07-27 14:19:00,488.67,4,Average service.
+CUST_0041,2025-04-23 17:01:00,462.35,4,Loved the discounts.
+CUST_0228,2025-04-09 00:35:00,595.4,3,Excellent service!
+CUST_0192,2025-04-23 04:18:00,697.53,4,Very fast delivery.
+CUST_0411,2025-07-06 07:19:00,672.06,4,Good quality products.
+CUST_0447,2025-05-24 00:11:00,579.27,4,Loved the discounts.
+CUST_0145,2025-06-02 18:14:00,463.35,1,Very bad experience.
+CUST_0201,2025-03-13 06:01:00,561.92,5,Average service.
+CUST_0417,2025-03-01 08:09:00,599.37,4,Very fast delivery.
+CUST_0212,2025-03-23 10:12:00,382.32,5,Neutral experience.
+CUST_0461,2025-02-10 13:17:00,336.08,5,User friendly app.
+CUST_0220,2025-03-23 21:08:00,307.91,1,Wrong items delivered.
+CUST_0240,2025-06-01 06:27:00,294.83,5,Neutral experience.
+CUST_0413,2025-02-03 19:05:00,234.16,3,App glitches caused trouble.
+CUST_0397,2025-07-05 20:01:00,429.99,3,Very bad experience.
+CUST_0046,2025-05-04 05:02:00,280.03,4,User friendly app.
+CUST_0035,2025-06-24 07:01:00,305.98,3,Delivery was okay.
+CUST_0253,2025-04-22 08:11:00,484.15,5,Very fast delivery.
+CUST_0390,2025-07-13 10:00:00,421.79,5,Product quality acceptable.
+CUST_0082,2025-03-27 12:14:00,451.55,5,User friendly app.
+CUST_0371,2025-05-12 20:48:00,563.82,1,Very bad experience.
+CUST_0256,2025-06-07 22:23:00,503.74,3,Poor packaging.
+CUST_0197,2025-03-10 20:53:00,582.27,3,Wrong items delivered.
+CUST_0303,2025-05-18 17:35:00,409.6,4,Good quality products.
+CUST_0409,2025-05-10 12:54:00,593.41,3,Very fast delivery.
+CUST_0450,2025-04-14 20:37:00,443.17,1,Delivery was very late.
+CUST_0010,2025-06-02 11:33:00,420.24,5,Good quality products.
+CUST_0312,2025-03-04 02:02:00,575.38,5,Loved the discounts.
+CUST_0286,2025-07-06 11:14:00,295.34,5,Nothing special.
+CUST_0242,2025-03-13 22:39:00,642.83,2,Very bad experience.
+CUST_0251,2025-04-16 15:31:00,366.15,4,Nothing special.
+CUST_0365,2025-03-29 21:35:00,253.83,1,Wrong items delivered.
+CUST_0005,2025-06-04 00:23:00,478.42,4,Average service.
+CUST_0119,2025-07-17 01:55:00,354.72,5,Very fast delivery.
+CUST_0289,2025-07-06 04:06:00,643.1,5,User friendly app.
+CUST_0374,2025-07-15 23:00:00,348.05,5,Loved the discounts.
+CUST_0065,2025-03-19 19:18:00,437.73,3,Very bad experience.
+CUST_0146,2025-07-07 09:59:00,228.93,4,Delivery was okay.
+CUST_0224,2025-06-26 02:42:00,497.55,4,Loved the discounts.
+CUST_0239,2025-06-06 10:48:00,306.71,5,Product quality acceptable.
+CUST_0177,2025-05-24 05:04:00,483.2,5,Product quality acceptable.
+CUST_0267,2025-06-16 01:47:00,348.6,3,Average service.
+CUST_0341,2025-05-27 23:11:00,154.37,2,Nothing special.

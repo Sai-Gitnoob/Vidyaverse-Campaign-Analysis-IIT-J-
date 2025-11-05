@@ -1,0 +1,37 @@
+ProductCategory,Week,StockoutIncidents
+Electronics,Week 1,8
+Electronics,Week 2,2
+Electronics,Week 3,1
+Electronics,Week 4,8
+Groceries,Week 1,8
+Groceries,Week 2,0
+Groceries,Week 3,5
+Groceries,Week 4,9
+Fashion,Week 1,7
+Fashion,Week 2,2
+Fashion,Week 3,8
+Fashion,Week 4,1
+Beauty,Week 1,5
+Beauty,Week 2,0
+Beauty,Week 3,6
+Beauty,Week 4,2
+Home & Kitchen,Week 1,6
+Home & Kitchen,Week 2,3
+Home & Kitchen,Week 3,8
+Home & Kitchen,Week 4,4
+Sports & Outdoors,Week 1,2
+Sports & Outdoors,Week 2,7
+Sports & Outdoors,Week 3,5
+Sports & Outdoors,Week 4,1
+Books,Week 1,2
+Books,Week 2,7
+Books,Week 3,9
+Books,Week 4,6
+Toys,Week 1,9
+Toys,Week 2,5
+Toys,Week 3,0
+Toys,Week 4,8
+Furniture,Week 1,2
+Furniture,Week 2,4
+Furniture,Week 3,6
+Furniture,Week 4,6
